@@ -1,4 +1,4 @@
-Real-Time-chat application
+REAL TIME CHAT APPLICATION 
 TECHNOLOGIES-
     1.FRONTEND-HTML,JS,Socket.js
     2.Backend-SpringBoot,WebSocket,SOMPT
